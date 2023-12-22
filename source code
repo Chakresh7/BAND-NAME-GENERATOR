@@ -1,0 +1,9 @@
+#THIS IS A BAND NAME GENERATOR
+#HEADLINE:
+print("WELCOME TO BAND NAME GENERATOR")
+#ENTER YOUR CITY:
+city = input("What's the name of city you were grown up in?\n")
+#ENTER YOUR PET:
+name = input("What's your pet name?\n")
+#RESULT:
+print("Your Band name could be " + city + " " + name)
